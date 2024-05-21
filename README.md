@@ -1,8 +1,7 @@
 # Öklid Mesafesi Hesaplama Programı
 Bu Python programı, iki boyutlu uzaydaki noktalar arasındaki Öklid mesafelerini hesaplar ve minimum mesafeyi bulur.
 
-![]([fotoğrafın_yolu](https://lh7-us.googleusercontent.com/nPfCm5iIpBSZ046cFX6_nigXzWzp5ZEy5IqwCyf0Tw4DH8eeDhjz9bX05y0pT03gurzg6dulaObb7-o7wuevBBySG1xCIzkkM91EqqgDvFKPJc_V40bbT3Se9qt4EDBreCLOlugrMdBbvDVnr79vzo4))
-
+![Alt metin](https://lh7-us.googleusercontent.com/nPfCm5iIpBSZ046cFX6_nigXzWzp5ZEy5IqwCyf0Tw4DH8eeDhjz9bX05y0pT03gurzg6dulaObb7-o7wuevBBySG1xCIzkkM91EqqgDvFKPJc_V40bbT3Se9qt4EDBreCLOlugrMdBbvDVnr79vzo4)
 
 - İçerik
 - Kod Açıklaması
@@ -48,4 +47,4 @@ for i in range(len(points)):
 min_distance = min(distances)
 print(f"Minimum mesafe: {min_distance}")
 
--distances listesinden minimum mesafe bulunur ve ekrana yazdırılır.
+- distances listesinden minimum mesafe bulunur ve ekrana yazdırılır.
